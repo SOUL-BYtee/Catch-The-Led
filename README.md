@@ -109,14 +109,12 @@ Catch-The-LED/
 ├── README.md
 ├── docs/
 │   └── Report.pdf
-├── images/
-│   ├── circuit.png
-│   ├── timing.png
-│   └── demo.gif
-├── simulations/
-│   └── (Proteus / Logisim files)
-├── hardware/
-│   └── schematic files
+├── circuit/
+│   ├── circuit.pdf
+├── simulation/
+│   └── (Proteus)
+├── video/
+│   └── Run The Project
 ```
 
 ---
