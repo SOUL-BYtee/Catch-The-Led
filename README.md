@@ -1,3 +1,6 @@
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Field](https://img.shields.io/badge/Field-Digital%20Logic-blue)
+![Level](https://img.shields.io/badge/Level-Hardware-orange)
 # 🎮 Catch The LED – Digital Logic Game
 
 A two-player competitive game implemented using **Digital Logic Design** without using any microcontrollers.
